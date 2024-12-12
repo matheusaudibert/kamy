@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "deploy-commands.js",
   "scripts": {
+    "build": "pip install requests numpy pillow",
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
