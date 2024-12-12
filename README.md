@@ -1,2 +1,2 @@
-# kamy
-a discord bot
+# kamy-bot
+kamy bot
