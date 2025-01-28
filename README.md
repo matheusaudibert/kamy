@@ -1,7 +1,5 @@
 # 🧩 Discord Bot with Rich Presence Embeds
 
-## Invite the Bot
-
 To invite the bot to your server, use the following link: [Invite the Bot](https://discord.com/oauth2/authorize?client_id=1315480992835698821&permissions=536872960&integration_type=0&scope=bot)
 
 ## Description
